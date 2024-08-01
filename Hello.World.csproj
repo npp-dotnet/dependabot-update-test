@@ -9,7 +9,7 @@
 
   <ItemGroup>
    <!-- should be outdated -->
-    <PackageReference Include="Figgle" Version="0.4.3" />
+    <PackageReference Include="Figgle" Version="0.5.1" />
   </ItemGroup>
 
   <ItemGroup>
